@@ -1,7 +1,7 @@
 {
   "name": "node-react-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Speak with the chat gpt.",
   "main": "src/app.js",
   "scripts": {
     "start": "yarn node dist/app.js"
