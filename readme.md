@@ -1,4 +1,4 @@
-# chat-gpt-nodejs-app [![Run CI](https://github.com/kkamara/node-react-boilerplate/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/node-react-boilerplate/actions/workflows/node.js.yml)
+# chat-gpt-nodejs-app
 
 Speak with the chat gpt.
 
